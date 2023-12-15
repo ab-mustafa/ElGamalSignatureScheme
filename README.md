@@ -3,8 +3,11 @@
 This repository contains implementations of cryptographic algorithms:
 
 1- Unforgeability under Chosen Message Attack (UF-CMA)
+
 Implementation of a cryptographic scheme designed to withstand UF-CMA attacks.
+
 2- ElGamal Signature Scheme
+
 A complete implementation of the ElGamal signature scheme from scratch.
 
 # Implementation Details
